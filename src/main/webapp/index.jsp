@@ -4,15 +4,10 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 8125555153/ 8885213771</h2>
-  
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
-  
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
-
-  <h2> Hi Team</h2>
-
   <h1><font color='blue'>P Ashok Kumar Reddy<h1>
-
+  <h2><b>Hi Team</b> 
+	   This is P Ashok Kumar Reddy, I am working in Persistent software company
+	   My skils Java,SpringBoot,Microservices
+	   Build Tools: Maven,Gradel</h2>
 </body>
 </html>
